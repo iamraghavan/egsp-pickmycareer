@@ -5,10 +5,33 @@
 <div class="ugf-wrapper">
     <div class="logo">
       <a href="{{url('/')}}">
-        <img src="assets/images/logo.png" class="img-fluid logo-white" alt="logo" element-id="173" style="
-    width: 80%;
-">
-        <img src="assets/images/logo-dark.png" class="img-fluid logo-black" alt="logo">
+
+        <h2>EGS Pillay Group of Institution</h2>
+        <h5>Nagapattinam</h5>
+
+
+        <div>
+
+
+            <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/naac_a.png?alt=media&token=a751dd62-e967-407a-acb2-4053b11a7160">
+        <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/National_Board_of_Accreditation.svg?alt=media&token=e397b82f-131e-452c-8a7f-dc24f0742047">
+        <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/National_Institutional_Ranking_Framework_logo.png?alt=media&token=43e764eb-2f80-4e59-99e5-363bc6d07721">
+
+
+        <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/All_India_Council_for_Technical_Education_logo.png?alt=media&token=3313913e-3dd9-48f0-bda5-cc272520eb56">
+        <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/NAAC_LOGO.png?alt=media&token=c2551b08-6a99-4315-8d35-5fc4ff3f7504">
+            <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/ISO_9001-2015.svg?alt=media&token=ef99263d-fb8a-44c8-b9aa-040735cb8816">
+        </div>
+
+        <div>
+            <img src="https://lmes.in/lmes-logo-new.jpg">
+            <img src="https://hubble.cdn.chittiapp.com/cdn/2024/3/18db3080-e526-11ee-ad98-dffa60db209f_aduthailakku-without-bg_min.webp">
+            <img src="https://firebasestorage.googleapis.com/v0/b/egspj-bumblebees.appspot.com/o/logo.8ab488a.png?alt=media&token=2411d9ea-3522-47b4-9db2-ae81e7164e09">
+
+
+        </div>
+
+
       </a>
     </div>
     <div class="ugf-content-block">
